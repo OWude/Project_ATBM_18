@@ -64,7 +64,6 @@ namespace UsersManagement
                 string connectionString = "";
                 if(check_role.CheckedItems.Contains("SYSDBA"))
                 {
-                    MessageBox.Show("SYSDBA");
                     connectionString = $"DATA SOURCE=localhost:1521/XE;DBA PRIVILEGE=SYSDBA;USER ID={input_username.Text};PASSWORD={input_password.Text}";
                 }
                 else
@@ -76,9 +75,18 @@ namespace UsersManagement
                 con.Open();
                 userUser = input_username.Text;
                 passUser = input_password.Text;
-                //if(check_role.CheckedItems.Contains("SYSDBA"))
+                if (check_role.CheckedItems.Contains("SYSDBA"))
+                {
+                    OracleCommand command = new OracleCommand("alter session set \"_ORACLE_SCRIPT\"=true", con);
+                    command.ExecuteNonQuery();
+                    MessageBox.Show("Connect với Oracle thành công");
+                    UsersAndRoles dba = new UsersAndRoles();
+                    dba.Show();
+                }
+                this.Hide();
 
-            }catch(OracleException ex)
+            }
+            catch(OracleException ex)
             {
                 MessageBox.Show(ex.Message);
                 return;

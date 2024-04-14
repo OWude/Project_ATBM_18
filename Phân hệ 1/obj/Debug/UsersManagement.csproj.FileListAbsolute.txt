@@ -52,3 +52,30 @@ E:\document\Mon hoc\An và Bảo mật httt\project\triet\Oracle-DB-Server-Manag
 E:\document\Mon hoc\An và Bảo mật httt\project\triet\Oracle-DB-Server-Manager\obj\Debug\UsersManagement.exe
 E:\document\Mon hoc\An và Bảo mật httt\project\triet\Oracle-DB-Server-Manager\obj\Debug\UsersManagement.pdb
 E:\document\Mon hoc\An và Bảo mật httt\project\triet\Oracle-DB-Server-Manager\obj\Debug\UsersManagement.LoginUi.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\UsersManagement.exe.config
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\UsersManagement.exe
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\UsersManagement.pdb
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\NuGet.Frameworks.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.Memory.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.Numerics.Vectors.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.Buffers.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.ValueTuple.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.csproj.AssemblyReference.cache
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.csproj.SuggestedBindingRedirects.cache
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.exe.config
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.AddRole.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.AddUser.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.EditRole.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.EditUser.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.Form1.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.LoginUi.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.Properties.Resources.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.UsersAndRoles.resources
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.csproj.GenerateResource.cache
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.csproj.CoreCompileInputs.cache
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.csproj.CopyComplete
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.exe
+E:\document\Mon hoc\An và Bảo mật httt\project\QLDL\Phân hệ 1\obj\Debug\UsersManagement.pdb
